@@ -1,0 +1,3 @@
+[submodule "exercise-tech-gallery"]
+	path = exercise-tech-gallery
+	url = git@github.com:tryber/exercise-tech-gallery.git
